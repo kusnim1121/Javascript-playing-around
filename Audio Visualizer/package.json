@@ -1,0 +1,16 @@
+{
+  "name": "audio-visualizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "mygamemodule": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Minsuk Choi",
+  "license": "ISC",
+  "type": "module"
+}
